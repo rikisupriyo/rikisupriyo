@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikisupriyo&label=Profile%20views&color=0e75b6&style=flat" alt="rikisupriyo" /> </p>
 
-- 🌱 I’m currently learning **Advanced Algorithms and Web Developing**
+- 🌱 I’m currently learning **Advanced Algorithms and Web Development**
 
 - 💬 Ask me about **C, C++, Java, Python, Lua**
 
