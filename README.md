@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **My future self is watching me right now through memories 😄**
 
-- 👨‍💻 Currently working on a Prediction Webapp 🧐**
+- 👨‍💻 Currently working on **A Prediction Webapp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
