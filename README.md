@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=40&pause=1000&center=true&multiline=true&width=850&height=100&lines=%3C+Hi+%F0%9F%91%8B+I+am+Supriyo+Ain+aka+%22ainsu%22%2F%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Stylish&size=40&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=850&height=200&lines=%3C++Hi+%F0%9F%91%8B+I+am+Supriyo+Ain%2C+;I+am+a+Competitive+Programmer%2C;and+also+a+Data+Science+Enthusiast+%2F%3E" alt="Typing SVG" /></a>
 </div>
 
 ###
@@ -18,11 +18,7 @@
 
 ###
 
-<h3 align="center">I am a Competitive Coder and I am passionate about Data Science, AI and ML.</h3>
-
-###
-
-<h2 align="left">< About me /></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Stylish&size=30&duration=2500&pause=500&vCenter=true&repeat=false&width=250&lines=%3C+About+Me+%2F%3E" alt="Typing SVG" /></a>
 
 ###
 
@@ -44,7 +40,7 @@
 
 <br clear="both">
 
-<h2 align="left">< Languages and Tools /></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Stylish&size=30&duration=3000&pause=500&vCenter=true&repeat=false&multiline=true&lines=%3C+Language+%26+Tools+%2F%3E" alt="Typing SVG" /></a>
 
 ###
 
@@ -64,7 +60,7 @@
 
 ###
 
-<h2 align="left">< Competitive Programming Profile /></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Stylish&size=30&duration=4000&pause=500&vCenter=true&repeat=false&multiline=true&width=700&lines=%3C+Competitive+Programming+Profile+%2F%3E" alt="Typing SVG" /></a>
 
 ###
 
