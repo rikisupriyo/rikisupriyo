@@ -87,3 +87,4 @@
   <img src="https://profile-counter.glitch.me/rikisupriyo/count.svg?"  />
 </div>
 
+![snake gif](https://github.com/rikisupriyo/rikisupriyo/blob/output/github-contribution-grid-snake.gif)
